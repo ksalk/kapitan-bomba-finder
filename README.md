@@ -1,4 +1,4 @@
-# Bomba Finder
+# Kapitan Bomba Finder
 
 A Discord bot that uses AI-powered semantic search to find quotes and dialogues from the Polish animated series "Kapitan Bomba" and related series. Simply type a quote or describe a scene, and the bot will locate the exact video and timestamp where it appears.
 
